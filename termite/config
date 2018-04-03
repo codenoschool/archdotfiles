@@ -6,8 +6,7 @@ allow_bold = true
 font = Fira Mono Medium 12
 #fullscreen = true
 #geometry = 640x480
-geometry = 880x490
-#icon_name = terminal
+icon_name = terminal
 mouse_autohide = true
 #scroll_on_output = false
 #scroll_on_keystroke = true
@@ -44,11 +43,6 @@ scrollback_lines = 10000
 # and cursor_foreground falls back to the background color.
 #cursor = #dcdccc
 #cursor_foreground = #dcdccc
-#background = rgba(63, 63, 63, 0.8)
-#background = rgba(14, 14, 14, 0.8)
-#background = rgba(9, 9, 9, 0.7)
-background = rgba(9, 9, 9, 0.8)
-#background = rgba(0, 0, 0, 0.8)
 
 #foreground = #dcdccc
 #foreground_bold = #ffffff
@@ -56,6 +50,7 @@ background = rgba(9, 9, 9, 0.8)
 
 # 20% background transparency (requires a compositor)
 #background = rgba(63, 63, 63, 0.8)
+background = rgba(14, 14, 14, 0.7)
 
 # If unset, will reverse foreground and background
 highlight = #2f2f2f
